@@ -9,7 +9,6 @@ Les technologies utilisées :
 - PHP
 - Framework Laravel 
 - Postman
-- CSS : Bootstrap
 - mySQL
 
 Compétences acquises :
