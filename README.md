@@ -5,11 +5,11 @@ L'IDE utilisé est Visual Studio Code.
 
 Les technologies utilisées :
 
-PHP
-Framework Laravel 
-Postman
-CSS : Bootstrap
-mySQL
+- PHP
+- Framework Laravel 
+- Postman
+- CSS : Bootstrap
+- mySQL
 
 Compétences acquises :
 
