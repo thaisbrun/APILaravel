@@ -15,4 +15,4 @@ Compétences acquises :
 
 - Création d'un jeu d'essais en Laravel 
 - Création d'une API et familiarisation avec Postman
-- Gestion de projet : Méthode AGILE en place (Mathys = ScrumMaster et développeur mobile, Baptiste = développeur backEnd, Tanguy = développeur frontEnd et moi = développeuse frontEnd et backEnd. 
+- Gestion de projet : Méthode AGILE en place (Mathys = ScrumMaster et développeur mobile, Baptiste = développeur backEnd, Tanguy = développeur frontEnd et moi = développeuse frontEnd et backEnd. )
